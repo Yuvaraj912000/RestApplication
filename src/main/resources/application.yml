@@ -1,0 +1,7 @@
+spring:
+ application:
+  name: crud-service
+ profiles:
+  active: devs  
+server:
+ port: 8088
